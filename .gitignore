@@ -6,3 +6,10 @@
 .vs/MVC-WCF-Sample/v15/.suo
 .gitattributes
 .vs/MVC-WCF-Sample/DesignTimeBuild/.dtbcache
+MW.MVC/obj/Debug/netcoreapp2.2/MW.MVC.AssemblyInfo.cs
+MW.MVC/obj/Debug/netcoreapp2.2/MW.MVC.AssemblyInfoInputs.cache
+MW.MVC/obj/Debug/netcoreapp2.2/MW.MVC.csproj.CoreCompileInputs.cache
+MW.MVC/obj/Debug/netcoreapp2.2/MW.MVC.csprojAssemblyReference.cache
+MW.MVC/obj/Debug/netcoreapp2.2/MW.MVC.RazorAssemblyInfo.cache
+MW.MVC/obj/Debug/netcoreapp2.2/MW.MVC.RazorAssemblyInfo.cs
+MW.MVC/obj/MW.MVC.csproj.nuget.cache
